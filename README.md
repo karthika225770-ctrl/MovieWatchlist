@@ -34,3 +34,10 @@ MongoDB Atlas connection will be configured in `backend/.env`.
 - DELETE /api/movies/:id
 - GET /api/movies/watch-next
 - GET /api/movies/stats
+
+
+## Project
+
+Movie Watchlist Manager is a MERN application for adding,
+editing, tracking and managing movies with status,
+priority, ratings and watch statistics.
