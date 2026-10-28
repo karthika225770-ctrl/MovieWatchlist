@@ -255,7 +255,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>🎬 Movie Watchlist</h1>
+        <h1>🎬 Movie Watchlist Manager</h1>
         <p>Manage your movies and track your watching journey</p>
       </header>
 
