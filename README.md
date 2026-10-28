@@ -25,3 +25,12 @@ npm start
 ```
 
 MongoDB Atlas connection will be configured in `backend/.env`.
+## API Endpoints
+
+- GET /api/movies
+- POST /api/movies
+- PUT /api/movies/:id
+- PATCH /api/movies/:id/status
+- DELETE /api/movies/:id
+- GET /api/movies/watch-next
+- GET /api/movies/stats
